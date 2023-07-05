@@ -1,0 +1,8 @@
+.filtersContainer{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.filters{
+    margin-right: 20px;
+}

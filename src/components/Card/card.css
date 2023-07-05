@@ -1,0 +1,27 @@
+.productCard {
+  width: 200px;
+  height: 250px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+  color: #333;
+}
+.productCard:hover {
+    cursor: pointer;
+    box-shadow: 0 2px 8px #8a8a8a;
+}
+.productTitle {
+  font-size: 12px;
+  font-weight: bold;
+}
+.productImg {
+  padding: 5px;
+  max-height: 40%;
+  min-width: 40%;
+}
+.productPrice {
+  font-size: 18px;
+  font-weight: bold;
+}
